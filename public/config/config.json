@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa0f8Eca652a3D7D75c4530C4b4FcAEbF9B4fBE30",
+  "SCAN_LINK": "https://etherscan.io/address/0xa0f8eca652a3d7d75c4530c4b4fcaebf9b4fbe30#readContract",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "OkayNFT2",
+  "SYMBOL": "OKAY2",
+  "MAX_SUPPLY": 302,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/okaynft2",
+  "SHOW_BACKGROUND": true
+}
